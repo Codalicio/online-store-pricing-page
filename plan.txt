@@ -1,0 +1,6 @@
+# Links :
+
+* Github : https://github.com/Codalicio/online-store-pricing-page
+* Github Pages : https://codalicio.github.io/online-store-pricing-page/
+* Netlify : https://super-smakager-143174.netlify.app/
+* Vercel : https://online-store-pricing-page.vercel.app/
